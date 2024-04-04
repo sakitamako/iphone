@@ -11,6 +11,7 @@ public class Android {
 		Android.mail();
 		Android.photo();
 		Android.internet();
+		Android.folder();
 	}
 
 }
